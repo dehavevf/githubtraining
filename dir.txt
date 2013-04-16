@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3EB0-2366
+
+ Directory of C:\Projects\GithubTraining\uc
+
+04/16/2013  11:01 AM    <DIR>          .
+04/16/2013  11:01 AM    <DIR>          ..
+04/16/2013  10:58 AM    <DIR>          .git
+04/16/2013  11:01 AM                 0 dir.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  211,491,074,048 bytes free
